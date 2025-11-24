@@ -7,4 +7,4 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShauryaUpadhyaya&layout=compact&theme=tokyonight&hide_border=true)
 
 ## Time Spent
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=shauryaupadhyaya&theme=tokyonight&hide_border=true)
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=00a9114d-344c-4bd4-953d-916a5155e1f6&theme=tokyonight&hide_border=true)
