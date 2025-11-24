@@ -15,5 +15,3 @@ I'm Shaurya, a 15 year old passionate about coding! Python, HTML, CSS, JavaScrip
 
 ## GitHub Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=ShauryaUpadhyaya&theme=tokyonight&hide_border=true)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShauryaUpadhyaya&show_icons=true&theme=tokyonight&hide_border=true)
